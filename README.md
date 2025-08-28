@@ -66,11 +66,11 @@ This is an Expo project created with `create-expo-app`, enhanced to serve as a S
 
 ## App Screenshots
 
-![Home Screen](./src/assets/images/img-home.png)
-
-![Launch Details Screen 1](./src/assets/images/img-details-1.png)
-
-![Launch Details Screen 2](./src/assets/images/image-details-2.png)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 10px;">
+  <img src="./src/assets/images/img-home.png" alt="Home Screen" height="200px" />
+  <img src="./src/assets/images/img-details-1.png" alt="Launch Details Screen 1" height="200px" />
+  <img src="./src/assets/images/image-details-2.png" alt="Launch Details Screen 2" height="200px" />
+</div>
 
 ## Learn more
 
