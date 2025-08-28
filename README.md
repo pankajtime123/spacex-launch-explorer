@@ -66,7 +66,11 @@ This is an Expo project created with `create-expo-app`, enhanced to serve as a S
 
 ## App Screenshots
 
-*(Please add your application screenshots here. Examples might include: Launch List, Search Results, Launch Details, Map View with User Location, and Permission Dialogs.)*
+![Home Screen](./src/assets/images/img-home.png)
+
+![Launch Details Screen 1](./src/assets/images/img-details-1.png)
+
+![Launch Details Screen 2](./src/assets/images/image-details-2.png)
 
 ## Learn more
 
